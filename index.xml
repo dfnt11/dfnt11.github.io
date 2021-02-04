@@ -33,5 +33,14 @@ mailto:test.test@gmail.com GFM a-tail link @pandao 邮箱地址自动链接 test
  多语言代码高亮 Codes 行内代码 Inline code 执行命令：npm install marked</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://dfnt11.github.io/post/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E5%8F%A3%E8%AF%80%E8%A1%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfnt11.github.io/post/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E5%8F%A3%E8%AF%80%E8%A1%A8/</guid>
+      <description>public class BubbleSort {public static void main(String[] args) {for (int i = 1; i&amp;lt;=9; i++){for (int j = 1; j&amp;lt;=i; j++) {System.out.print(j+&amp;quot;*&amp;quot;+i+&amp;quot;=&amp;quot;+i*j+&amp;quot;\t&amp;quot;);}System.out.println();}}}</description>
+    </item>
+    
   </channel>
 </rss>
